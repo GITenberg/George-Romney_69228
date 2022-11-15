@@ -1,0 +1,33 @@
+_repo: George-Romney_69228
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williamson, George C.
+    aliases:
+    - Williamson, G. C. (George Charles)
+    - Williamson, George Charles
+    - Cleeve, Rowley
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '38320'
+    url: http://www.gutenberg.org/2009/agents/38320
+description: ''
+gutenberg_issued: '2022-10-25'
+identifiers:
+  gutenberg: '69228'
+language: en
+pgterms:marc905: 20221016195831cleeve
+pgterms:marc906: '1901'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: 'United Kingdom: George Bell & Sons,1901,reprint 1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bell's miniature series of painters
+subjects:
+- !lcsh 'Romney, George, 1734-1802'
+- !lcc 'ND'
+- GITenberg
+title: George Romney
+url: http://www.gutenberg.org/ebooks/69228
